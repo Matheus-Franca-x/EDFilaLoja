@@ -7,7 +7,7 @@ public class OperacaoController {
 
 	public OperacaoController() 
 	{
-		
+		super();
 	}
 	
 	public void caixa(FilaObject fila)
